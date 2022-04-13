@@ -15,7 +15,8 @@ twintent Hello World
 
 ## Installation
 
-Clone or download this repository then run `go install`.
+Download executable binary from  [latest release](https://github.com/sheepla/twintent/releases/latest) page.
+To build from source, clone or download this repository then run `go install`.
 
 ## Author
 
