@@ -11,7 +11,7 @@
 twintent Hello World
 ```
 
-3. The browser will launch and you will see a text box where you can post your tweet. You can post by simply clicking *Tweet*.
+3. The browser will launch and you will see a text box where you can post your tweet. You can post by simply clicking *Tweet* or type `Ctrl-Enter`.
 
 ## Installation
 
